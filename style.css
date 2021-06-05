@@ -25,10 +25,6 @@
     margin: 8px;
   }
 
-  ul{
-    list-style : none;
-    list-style-type: disc;
-  }
 
   .nav ul {
       list-style-type: none;
@@ -62,6 +58,11 @@
     text-decoration : none;
     color: #0b60aa;
   }
+ 
+  a:hover{
+    color:#000000;
+  }
+
 
   a:-webkit-any-link {
     cursor: pointer;
