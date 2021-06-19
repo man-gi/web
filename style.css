@@ -147,3 +147,9 @@
     font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
     line-height: normal;
 }
+
+footer {
+  font-family: Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;
+  padding: 2rem 0;
+  text-align: center;
+}
